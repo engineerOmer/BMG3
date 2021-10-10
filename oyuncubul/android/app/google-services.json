@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666779260246",
+    "project_id": "flutter-70a2a",
+    "storage_bucket": "flutter-70a2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666779260246:android:93ef24a2509560e344b2f7",
+        "android_client_info": {
+          "package_name": "com.omer.oyuncubul"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666779260246-lds5u467lv103gh26b3qbigc3j4qgkt8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7UN6cm04JaFNKnA-kRT2SOMx8Vt2JauQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666779260246-lds5u467lv103gh26b3qbigc3j4qgkt8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
